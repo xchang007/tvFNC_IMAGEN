@@ -1,5 +1,5 @@
 # tvFNC_IMAGEN
-## This repository contains code and data for the project "Neurocognitive characterization of behaviour and mental illness through time-varying brain network analysis"
+### This repository contains code and data for the project "Neurocognitive characterization of behaviour and mental illness through time-varying brain network analysis"
 
 # code
 ## 1. rest & task ICA 
