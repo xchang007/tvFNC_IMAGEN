@@ -2,6 +2,7 @@
 clc;clear; close all
 load('data\R_run_sPLS.mat')
 addpath(genpath('...\cca_pls_toolkit-master\cca_pls_toolkit-master'))
+% https://github.com/anaston/cca_pls_toolkit
 
 % mean_dwell_time  % dwell_time of FNC states from k-means clustering, example resting-state, Nsub*Nk
 % Beh              % 29 behavioural items, Nsub*Nbeh
