@@ -1,4 +1,8 @@
 % FNC state occurrences corr with task stimuli, group level, EFT
+addpath(genpath('..\EffectSizeToolbox_v1.61'))
+% https://github.com/hhentschke/measures-of-effect-size-toolbox
+addpath(genpath('..\GroupICATv4.0b'))
+% https://github.com/trendscenter/gift
 
 %% 1. Face mean SPM_design 
 clc;clear;close all
