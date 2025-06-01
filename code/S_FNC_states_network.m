@@ -1,4 +1,10 @@
 
+addpath(genpath('..\EffectSizeToolbox_v1.61'))
+% https://github.com/hhentschke/measures-of-effect-size-toolbox
+addpath(genpath('..\2019_03_03_BCT'))
+% https://sites.google.com/site/bctnet/
+
+
 %% Compare same and different FNC states
 clc;clear;close all
 load('data\R_FNC_states_network.mat')
